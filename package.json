@@ -1,0 +1,8 @@
+{
+  "name": "its-lemon-pos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "It's Lemon website with staff POS and inventory API",
+  "engines": { "node": ">=20" },
+  "dependencies": { "@supabase/supabase-js": "^2.57.0" }
+}
